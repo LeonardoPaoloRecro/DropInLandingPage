@@ -1,0 +1,21 @@
+{
+  "name": "DropIn",
+  "short_name": "DropIn",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050608",
+  "theme_color": "#050608",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "./assets/dropin-favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/dropin-apple-touch.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

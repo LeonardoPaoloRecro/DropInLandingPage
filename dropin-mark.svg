@@ -1,0 +1,33 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dropin-stroke" x1="14" y1="14" x2="74" y2="74" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7F9FC"/>
+      <stop offset="1" stop-color="#D8FFF3"/>
+    </linearGradient>
+    <linearGradient id="dropin-fill" x1="20" y1="18" x2="66" y2="70" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7F9FC" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#D8FFF3" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+  <path
+    d="M20 26L30 16H52C66.3594 16 76 25.6406 76 40V56C76 70.3594 66.3594 80 52 80H20V26Z"
+    fill="url(#dropin-fill)"
+    stroke="url(#dropin-stroke)"
+    stroke-width="4"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M37 29V67"
+    stroke="#F7F9FC"
+    stroke-width="4"
+    stroke-linecap="round"
+  />
+  <path
+    d="M55 24V38L45 48"
+    stroke="#D8FFF3"
+    stroke-width="4.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <circle cx="55" cy="24" r="4" fill="#D8FFF3"/>
+</svg>
